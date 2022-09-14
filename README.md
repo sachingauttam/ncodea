@@ -28,7 +28,7 @@ NCODƎA is a React app that has a Login, Register and Reset password features. T
 
 ## Live App
 
-To view and test the app you can visit this [link]().
+To view and test the app you can visit this [link](https://6321710aa25d58205170c36d--helpful-biscotti-ba7f85.netlify.app/).
 
 ## Packages & Libraries
 
